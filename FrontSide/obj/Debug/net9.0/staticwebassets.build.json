@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QyqcND6YJISN2ktzYA+HQhWuQbdi4/h6tat+BPLZ/OY=",
+  "Hash": "dpyMCZ174LazaeUTvkjNSNpPpi/ni4CKiPhNQipmh+4=",
   "Source": "FrontSide",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "qzxy7vtk8f",
-      "Integrity": "lvM7G8VbpxJPELoqTW3K+6imrjbhbNQ4dGG3afV7r88=",
+      "Fingerprint": "hxe96tuun7",
+      "Integrity": "1W2XS9XjYIlZy500NKM0z+TBD+CuNlv/zdB3bn3l0y0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "uehz3m5h44",
-      "Integrity": "5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM=",
+      "Fingerprint": "tkx1lv36uq",
+      "Integrity": "PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\FrontSide.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "m24qdos7ma",
-      "Integrity": "4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8=",
+      "Fingerprint": "cy9qxlekeh",
+      "Integrity": "HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\webcil\\FrontSide.wasm"
@@ -4532,7 +4532,7 @@
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
     },
     {
-      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-qzxy7vtk8f.gz",
+      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-hxe96tuun7.gz",
       "SourceId": "FrontSide",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\",
@@ -4546,8 +4546,8 @@
       "RelatedAsset": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l7a96x0cmk",
-      "Integrity": "D3pP5PF+SJShLXg6t1R2rJnRgEXUNqGNPDGoas4dIIM=",
+      "Fingerprint": "6tt3b3j04s",
+      "Integrity": "Vj+BVly/fRH3KrrqBFmJT0aK2yc/Z4iLlwK0LGLC04c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8816,12 +8816,12 @@
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-m24qdos7ma.gz",
+      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-cy9qxlekeh.gz",
       "SourceId": "FrontSide",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FrontSide#[.{fingerprint=m24qdos7ma}]!.wasm.gz",
+      "RelativePath": "_framework/FrontSide#[.{fingerprint=cy9qxlekeh}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8830,8 +8830,8 @@
       "RelatedAsset": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xbr2oxn756",
-      "Integrity": "3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4=",
+      "Fingerprint": "rd0dktqb6k",
+      "Integrity": "0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.wasm"
@@ -9362,12 +9362,12 @@
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-uehz3m5h44.gz",
+      "Identity": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-tkx1lv36uq.gz",
       "SourceId": "FrontSide",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FrontSide#[.{fingerprint=uehz3m5h44}]!.pdb.gz",
+      "RelativePath": "_framework/FrontSide#[.{fingerprint=tkx1lv36uq}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9376,8 +9376,8 @@
       "RelatedAsset": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sjof2dqxxl",
-      "Integrity": "CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U=",
+      "Fingerprint": "hbydfwmznr",
+      "Integrity": "/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lvM7G8VbpxJPELoqTW3K+6imrjbhbNQ4dGG3afV7r88=\""
+          "Value": "\"1W2XS9XjYIlZy500NKM0z+TBD+CuNlv/zdB3bn3l0y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1W2XS9XjYIlZy500NKM0z+TBD+CuNlv/zdB3bn3l0y0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-hxe96tuun7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081366965"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12289"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vj+BVly/fRH3KrrqBFmJT0aK2yc/Z4iLlwK0LGLC04c=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lvM7G8VbpxJPELoqTW3K+6imrjbhbNQ4dGG3afV7r88="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-qzxy7vtk8f.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081360345"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12290"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"D3pP5PF+SJShLXg6t1R2rJnRgEXUNqGNPDGoas4dIIM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lvM7G8VbpxJPELoqTW3K+6imrjbhbNQ4dGG3afV7r88=\""
+          "Value": "W/\"1W2XS9XjYIlZy500NKM0z+TBD+CuNlv/zdB3bn3l0y0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lvM7G8VbpxJPELoqTW3K+6imrjbhbNQ4dGG3afV7r88="
+          "Value": "sha256-1W2XS9XjYIlZy500NKM0z+TBD+CuNlv/zdB3bn3l0y0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-qzxy7vtk8f.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\1ozt41ukrn-hxe96tuun7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12290"
+          "Value": "12289"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D3pP5PF+SJShLXg6t1R2rJnRgEXUNqGNPDGoas4dIIM=\""
+          "Value": "\"Vj+BVly/fRH3KrrqBFmJT0aK2yc/Z4iLlwK0LGLC04c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
+          "Value": "Tue, 18 Feb 2025 12:21:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-D3pP5PF+SJShLXg6t1R2rJnRgEXUNqGNPDGoas4dIIM="
+          "Value": "sha256-Vj+BVly/fRH3KrrqBFmJT0aK2yc/Z4iLlwK0LGLC04c="
         }
       ]
     },
@@ -12749,7 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/FrontSide.m24qdos7ma.wasm",
+      "Route": "_framework/FrontSide.cy9qxlekeh.wasm",
       "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12759,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23829"
+          "Value": "24341"
         },
         {
           "Name": "Content-Type",
@@ -12767,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8=\""
+          "Value": "\"HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:26 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12781,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m24qdos7ma"
+          "Value": "cy9qxlekeh"
         },
         {
           "Name": "label",
@@ -12789,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8="
+          "Value": "sha256-HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM="
         }
       ]
     },
     {
-      "Route": "_framework/FrontSide.m24qdos7ma.wasm",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-m24qdos7ma.gz",
+      "Route": "_framework/FrontSide.cy9qxlekeh.wasm",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-cy9qxlekeh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000096665056"
+          "Quality": "0.000094652153"
         }
       ],
       "ResponseHeaders": [
@@ -12810,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10344"
+          "Value": "10564"
         },
         {
           "Name": "ETag",
-          "Value": "\"3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4=\""
+          "Value": "\"0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12838,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8=\""
+          "Value": "W/\"HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m24qdos7ma"
+          "Value": "cy9qxlekeh"
         },
         {
           "Name": "label",
@@ -12852,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8="
+          "Value": "sha256-HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM="
         }
       ]
     },
     {
-      "Route": "_framework/FrontSide.m24qdos7ma.wasm.gz",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-m24qdos7ma.gz",
+      "Route": "_framework/FrontSide.cy9qxlekeh.wasm.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-cy9qxlekeh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12867,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10344"
+          "Value": "10564"
         },
         {
           "Name": "Content-Type",
@@ -12875,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4=\""
+          "Value": "\"0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12897,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m24qdos7ma"
+          "Value": "cy9qxlekeh"
         },
         {
           "Name": "label",
@@ -12905,7 +12905,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4="
+          "Value": "sha256-0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM="
         }
       ]
     },
@@ -12920,7 +12920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25736"
+          "Value": "26000"
         },
         {
           "Name": "Content-Type",
@@ -12928,11 +12928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM=\""
+          "Value": "\"PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:57 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12942,18 +12942,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM="
+          "Value": "sha256-PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8="
         }
       ]
     },
     {
       "Route": "_framework/FrontSide.pdb",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-uehz3m5h44.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-tkx1lv36uq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000053648069"
+          "Quality": "0.000053129317"
         }
       ],
       "ResponseHeaders": [
@@ -12963,15 +12963,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18639"
+          "Value": "18821"
         },
         {
           "Name": "ETag",
-          "Value": "\"CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U=\""
+          "Value": "\"/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:58 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12991,19 +12991,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM=\""
+          "Value": "W/\"PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM="
+          "Value": "sha256-PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8="
         }
       ]
     },
     {
       "Route": "_framework/FrontSide.pdb.gz",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-uehz3m5h44.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-tkx1lv36uq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13012,7 +13012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18639"
+          "Value": "18821"
         },
         {
           "Name": "Content-Type",
@@ -13020,11 +13020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U=\""
+          "Value": "\"/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:58 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13042,12 +13042,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U="
+          "Value": "sha256-/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ="
         }
       ]
     },
     {
-      "Route": "_framework/FrontSide.uehz3m5h44.pdb",
+      "Route": "_framework/FrontSide.tkx1lv36uq.pdb",
       "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FrontSide.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13057,7 +13057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25736"
+          "Value": "26000"
         },
         {
           "Name": "Content-Type",
@@ -13065,11 +13065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM=\""
+          "Value": "\"PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:57 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13079,7 +13079,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uehz3m5h44"
+          "Value": "tkx1lv36uq"
         },
         {
           "Name": "label",
@@ -13087,18 +13087,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM="
+          "Value": "sha256-PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8="
         }
       ]
     },
     {
-      "Route": "_framework/FrontSide.uehz3m5h44.pdb",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-uehz3m5h44.gz",
+      "Route": "_framework/FrontSide.tkx1lv36uq.pdb",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-tkx1lv36uq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000053648069"
+          "Quality": "0.000053129317"
         }
       ],
       "ResponseHeaders": [
@@ -13108,15 +13108,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18639"
+          "Value": "18821"
         },
         {
           "Name": "ETag",
-          "Value": "\"CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U=\""
+          "Value": "\"/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:58 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13136,13 +13136,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM=\""
+          "Value": "W/\"PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uehz3m5h44"
+          "Value": "tkx1lv36uq"
         },
         {
           "Name": "label",
@@ -13150,13 +13150,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5s3B8ZysfW5E3rjnAMMYnXQzREzNCaxnvDTeAQRb7XM="
+          "Value": "sha256-PSEu2mDjGHkxbwKb/klGdzYdrM866ysgJOb41hzsIy8="
         }
       ]
     },
     {
-      "Route": "_framework/FrontSide.uehz3m5h44.pdb.gz",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-uehz3m5h44.gz",
+      "Route": "_framework/FrontSide.tkx1lv36uq.pdb.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\yhk64m7zeh-tkx1lv36uq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13165,7 +13165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18639"
+          "Value": "18821"
         },
         {
           "Name": "Content-Type",
@@ -13173,11 +13173,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U=\""
+          "Value": "\"/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:21:58 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13195,7 +13195,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uehz3m5h44"
+          "Value": "tkx1lv36uq"
         },
         {
           "Name": "label",
@@ -13203,7 +13203,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CKD7c66Kpl9twVoRFfRDqa2j4styrJUlgI4smbMaT2U="
+          "Value": "sha256-/f1fCssHqFYKq5QEosBwE/843BGO2JGvli8Eq5SZxlQ="
         }
       ]
     },
@@ -13218,7 +13218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23829"
+          "Value": "24341"
         },
         {
           "Name": "Content-Type",
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8=\""
+          "Value": "\"HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:26 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8="
+          "Value": "sha256-HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM="
         }
       ]
     },
     {
       "Route": "_framework/FrontSide.wasm",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-m24qdos7ma.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-cy9qxlekeh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000096665056"
+          "Quality": "0.000094652153"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10344"
+          "Value": "10564"
         },
         {
           "Name": "ETag",
-          "Value": "\"3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4=\""
+          "Value": "\"0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8=\""
+          "Value": "W/\"HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4lsZACNC8zzTuxazp+6lgA32dYwF4AQuCSnAna75OA8="
+          "Value": "sha256-HDY+OFsYL7bzCc6ehjGLE8guCXjhiKG1SBC6VEDB4sM="
         }
       ]
     },
     {
       "Route": "_framework/FrontSide.wasm.gz",
-      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-m24qdos7ma.gz",
+      "AssetFile": "C:\\Users\\alisa\\Downloads\\Functions2025\\Functions2025\\FrontSide\\obj\\Debug\\net9.0\\compressed\\u98ltwmbx8-cy9qxlekeh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10344"
+          "Value": "10564"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4=\""
+          "Value": "\"0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 12:18:27 GMT"
+          "Value": "Tue, 18 Feb 2025 17:52:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3WLjSCUdIp51nyLrz6WqCp/IzUpBH1qxrGFdVBJNwU4="
+          "Value": "sha256-0TQ3jytH9gie7SSOV/XVVnzP+oQoZFewM+3H683AvgM="
         }
       ]
     },

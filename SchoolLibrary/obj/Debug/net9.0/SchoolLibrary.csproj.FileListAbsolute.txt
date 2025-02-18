@@ -12,3 +12,4 @@ C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net
 C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.deps.json
 C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.dll
 C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.pdb
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net9.0\SchoolLibrary.sourcelink.json
