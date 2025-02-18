@@ -1,0 +1,115 @@
+﻿@page "/students-by-school"
+@inject StudentService StudentService
+
+<h3>Students by School</h3>
+
+<p>Select a school:</p>
+
+@foreach (var school in new string[] { "Nursing", "Mining", "Computing", "Business", "Medicine", "BCIT" })
+{
+    <label>
+        <input type="radio" name="school" value="@school" @onchange="OnSchoolChanged" />
+        @school
+    </label>
+    <br />
+}
+
+@if (isLoading)
+{
+    <p>Loading students...</p>
+}
+else if (!string.IsNullOrEmpty(errorMessage))
+{
+    <p style="color: red;">Error: @errorMessage</p>
+}
+else if (students != null && students.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>School</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in students)
+            {
+                <tr>
+                    <td>@student.FirstName</td>
+                    <td>@student.LastName</td>
+                    <td>@student.School</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No students found for the selected school.</p>
+}
+
+@code {
+    private string selectedSchool = "";
+    private List<Student> students = new();
+    private bool isLoading = false;
+    private string? errorMessage = null;
+
+    private async Task OnSchoolChanged(ChangeEventArgs e)
+    {
+        selectedSchool = e.Value?.ToString() ?? "";
+
+        Console.WriteLine($"[Blazor] School selected: {selectedSchool}");
+
+        if (string.IsNullOrEmpty(selectedSchool))
+        {
+            students.Clear();
+            errorMessage = "Please select a valid school.";
+            return;
+        }
+
+        await LoadStudents();
+        StateHasChanged();
+    }
+
+    private async Task LoadStudents()
+    {
+        isLoading = true;
+        errorMessage = null;
+
+        try
+        {
+            Console.WriteLine($"[Blazor] Fetching students for school: {selectedSchool}");
+            var result = await StudentService.GetStudentsBySchoolAsync(selectedSchool);
+
+            if (result == null)
+            {
+                Console.WriteLine("[Blazor] API returned null!");
+            }
+            else if (result.Count == 0)
+            {
+                Console.WriteLine("[Blazor] API returned an empty list.");
+            }
+            else
+            {
+                Console.WriteLine($"[Blazor] Received {result.Count} students.");
+            }
+
+            students = result ?? new List<Student>();
+
+            if (students.Count == 0)
+            {
+                errorMessage = "No students found for this school.";
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Failed to load data: {ex.Message}";
+            Console.WriteLine($"[Blazor] Error fetching students: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}

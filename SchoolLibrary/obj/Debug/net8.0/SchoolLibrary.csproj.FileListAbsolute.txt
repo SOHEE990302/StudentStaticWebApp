@@ -1,0 +1,14 @@
+C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.deps.json
+C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.dll
+C:\Users\alisa\Downloads\Functions2025\Functions2025\Functions2025\bin\output\SchoolLibrary.pdb
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.dll
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\refint\SchoolLibrary.dll
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.pdb
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\obj\Debug\net8.0\ref\SchoolLibrary.dll
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.deps.json
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.dll
+C:\Users\alisa\Downloads\Functions2025\Functions2025\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.pdb

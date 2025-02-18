@@ -1,0 +1,50 @@
+﻿@page "/school-report"
+@inject StudentService StudentService
+
+<h3>School Report</h3>
+
+@if (schoolCounts == null)
+{
+    <p>Loading data...</p>
+}
+else if (schoolCounts.Count == 0)
+{
+    <p>No data available.</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>School</th>
+                <th>Student Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var school in schoolCounts)
+            {
+                <tr>
+                    <td>@school.School</td>
+                    <td>@school.Count</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<SchoolCount> schoolCounts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            schoolCounts = await StudentService.GetStudentCountBySchoolAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading data: {ex.Message}");
+            schoolCounts = new List<SchoolCount>(); // Ensure it's not null to prevent rendering issues.
+        }
+    }
+}
