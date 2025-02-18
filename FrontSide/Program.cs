@@ -17,7 +17,7 @@ if (builder.HostEnvironment.IsDevelopment()) // 로컬 실행 시
 }
 else // 배포된 환경에서는 Azure Static Web Apps API URL 사용
 {
-    apiBaseUrl = "https://purple-rock-0829d3d10.4.azurestaticapps.net/api/"; // 커스텀 도메인 사용
+    apiBaseUrl = "https://purple-rock-0829d3d10.4.azurestaticapps.net/api/"; // 너의 Azure Static Web Apps 주소
 }
 
 // HttpClient 설정
